@@ -1,0 +1,11 @@
+D:\MPVen-PC\Documents\programaçao\C#\hangedman\bin\Debug\netcoreapp3.1\hangedman.exe
+D:\MPVen-PC\Documents\programaçao\C#\hangedman\bin\Debug\netcoreapp3.1\hangedman.deps.json
+D:\MPVen-PC\Documents\programaçao\C#\hangedman\bin\Debug\netcoreapp3.1\hangedman.runtimeconfig.json
+D:\MPVen-PC\Documents\programaçao\C#\hangedman\bin\Debug\netcoreapp3.1\hangedman.runtimeconfig.dev.json
+D:\MPVen-PC\Documents\programaçao\C#\hangedman\bin\Debug\netcoreapp3.1\hangedman.dll
+D:\MPVen-PC\Documents\programaçao\C#\hangedman\bin\Debug\netcoreapp3.1\hangedman.pdb
+D:\MPVen-PC\Documents\programaçao\C#\hangedman\obj\Debug\netcoreapp3.1\hangedman.csprojAssemblyReference.cache
+D:\MPVen-PC\Documents\programaçao\C#\hangedman\obj\Debug\netcoreapp3.1\hangedman.AssemblyInfoInputs.cache
+D:\MPVen-PC\Documents\programaçao\C#\hangedman\obj\Debug\netcoreapp3.1\hangedman.AssemblyInfo.cs
+D:\MPVen-PC\Documents\programaçao\C#\hangedman\obj\Debug\netcoreapp3.1\hangedman.dll
+D:\MPVen-PC\Documents\programaçao\C#\hangedman\obj\Debug\netcoreapp3.1\hangedman.pdb
