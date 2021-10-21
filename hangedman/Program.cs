@@ -5,14 +5,13 @@ namespace hangedman
     class Program
     {//abaixo sao as variaveis globais para facilitar o desenvolvimento do jogo
         static int guesscounter = 0;
-        
-        //static char  TRY;
         static string playerletter;
         static string playerguesses = string.Empty;
         static bool gameover=false;
         static string playercorrectguess=string.Empty;
         static int lettercount=0;
         static string masked = "world";
+        
         static void Main(string[] args)
         {
             string pname;
@@ -62,10 +61,9 @@ namespace hangedman
             }
             }while(gameover != true);
         }
-        //string.Equals(masked,playercorrectguess)
         //playgame end
 
-        private static void AskedLetter()
+        private static void AskedLetter()//metodo para registrar a letra que o jogador escolheu e verifica se a letra consta na palvra escondida ou nao
         {
             do
             {
@@ -84,8 +82,9 @@ namespace hangedman
             System.Console.WriteLine(playerguesses);
         }
         //askedletter end
-        private static void MaskedWord()
-        {
+        
+        private static void MaskedWord()//metodo usado para escrever linhas no lugar das letras da palavra escondida
+        { 
             foreach (char t in masked)
             {
                 foreach(char p in playercorrectguess){
@@ -107,9 +106,5 @@ namespace hangedman
             Console.WriteLine("ending the game.");
         }
         //endgame end
-
-        //method end
     }
-    //class end
 }
-//namespace end
