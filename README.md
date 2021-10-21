@@ -1,2 +1,2 @@
 a hanged man game on C#
-this version is still not finished, later i'll release a better version
+this version has some bugs, but it's playable 
